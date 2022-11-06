@@ -21,6 +21,7 @@ body {
 }
 
 /* Work section */
+/* Adds hover effect to pictures  */
 
 .work-img:hover {
     opacity: 0.5;
@@ -31,11 +32,6 @@ body {
 }
 
 /* About section */
-
-.list-skill {
-    list-style: none;
-    text-align: center;
-}
 
 .about-para {
     margin: 10px 30px;
@@ -64,6 +60,8 @@ body {
     padding: 15px 0;
     font-family: 'Roboto Mono', monospace;
 }
+
+/* Adds hover effcet to links */
 
 .link-foot:hover,
 .link-dark:hover {
