@@ -21,22 +21,41 @@ body {
     opacity: 0.5;
 }
 
+#work-section {
+    padding-bottom: 40px;
+}
+
+/* About section */
+
+.list-skill {
+    list-style: none;
+    text-align: center;
+}
+
+.about-para {
+    margin: 10px 30px;
+}
+
 /* Footer */
 
 #footer {
-    padding: 30px;
+    padding: 40px;
 }
 
 .footBar {
-    background-color: black;
+    background-color: rgb(44, 42, 42);
     color: white;
-    padding-top: 30px;
+    padding-top: 40px 0;
+    min-height: 100px;
+    text-align: center;
+    vertical-align: middle;
 }
 
 .link-foot {
     text-decoration: none;
-    color: black;
-    font-size: 20px;
+    color: rgb(97, 195, 195);
+    font-size: 28px;
+    padding: 15px 0;
 }
 
 .link-foot:hover,
@@ -47,4 +66,9 @@ body {
 .link-dark {
     text-decoration: none;
     color: white;
+    margin-top: 30px;
+}
+
+.link-pos {
+    margin-top: 30px;
 }
