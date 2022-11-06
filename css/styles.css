@@ -39,12 +39,13 @@ body {
 
 .about-para {
     margin: 10px 30px;
+    padding: 40px 0;
 }
 
 /* Footer */
 
 #footer {
-    padding: 40px;
+    padding: 80px 0;
 }
 
 .footBar {
@@ -61,6 +62,7 @@ body {
     color: rgb(97, 195, 195);
     font-size: 28px;
     padding: 15px 0;
+    font-family: 'Roboto Mono', monospace;
 }
 
 .link-foot:hover,
