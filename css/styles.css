@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+}
+
+/* This is the width of the image links in the work section */
+
+.workPanel {
+    width: 100%;
+
+}
+
+.jumbotron {
+    color: white;
+    text-align: center;
+
+}
+
+/* Footer */
+
+#footer {}
+
+.footBar {
+    background-color: black;
+    color: white;
+    padding-top: 30px;
+}
