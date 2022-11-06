@@ -15,7 +15,7 @@ Here are three screenshots of the application. They show what the site looks lik
 
 ![Web capture_6-11-2022_193839_127 0 0 1](https://user-images.githubusercontent.com/109035827/200191479-55415e63-0899-4faa-9ad9-57ac46df840e.jpeg)
 
-![Web capture_6-11-2022_194030_127 0 0 1](https://user-images.githubusercontent.com/109035827/200191501-f10b723c-83f4-4cc1-a804-0011f5a017c5.jpeg)
+![Web capture_6-11-2022_193916_127 0 0 1](https://user-images.githubusercontent.com/109035827/200191697-96a7ebc4-5485-48d6-9768-ce0ff10ee383.jpeg)
 
 # Contact
 
