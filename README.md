@@ -10,7 +10,7 @@ I was attempting to build upon a website that I had already built, but by using 
 
 I learned a lot about bootstrap and its components. I learned about how responsiveness works in Bootstrap. Using a custom CSS while also using Bootstraps predefined stuff. I also imported a font from Google Fonts into my site. 
 
-Here are three screenshots of the application. They show what the site looks like at different breakpoints.
+Here are some screenshots of the application. They show what the site looks like at different breakpoints.
 ![Web capture_6-11-2022_193916_127 0 0 1](https://user-images.githubusercontent.com/109035827/200191449-09ab1901-9a41-4a7b-a979-e2a59cc823fe.jpeg)
 
 ![Web capture_6-11-2022_193839_127 0 0 1](https://user-images.githubusercontent.com/109035827/200191479-55415e63-0899-4faa-9ad9-57ac46df840e.jpeg)
