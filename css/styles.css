@@ -15,12 +15,36 @@ body {
 
 }
 
+/* Work section */
+
+.work-img:hover {
+    opacity: 0.5;
+}
+
 /* Footer */
 
-#footer {}
+#footer {
+    padding: 30px;
+}
 
 .footBar {
     background-color: black;
     color: white;
     padding-top: 30px;
+}
+
+.link-foot {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+
+.link-foot:hover,
+.link-dark:hover {
+    color: lightslategrey;
+}
+
+.link-dark {
+    text-decoration: none;
+    color: white;
 }
